@@ -1,14 +1,13 @@
 <div align="center">
+  
+<img width="200" height="200" alt="코딩하는감자병아리" src="https://github.com/user-attachments/assets/6f35b44f-49cb-4d37-a82d-8b357747556b" />
 
-<img width="200" height="200" alt="감자병아리" src="https://github.com/user-attachments/assets/a4281581-f9a5-4d23-a0db-193d40afc17d" />
 
 ### 이민주
 
 안녕하세요. 끊임없이 배우고 성장하며, <br> 사용자에게 더 나은 경험을 제공하는 서비스를 만들고 싶은 <br> 풀스택 개발자 이민주입니다.
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -72,8 +71,6 @@
 </p>
 
 </div>
-
----
 
 ## 📫 Contact
 
